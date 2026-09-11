@@ -1,14 +1,16 @@
 <!-- repo-header:start -->
-<img src="https://github.com/dcondrey.png?size=160" alt="Voight-Kampff: Cross-Genre AI-Generated Text Detection (PAN@CLEF 2026) logo" width="120" align="left">
+<h3 align="center">Voight-Kampff: Cross-Genre AI-Generated Text Detection (PAN@CLEF 2026)</h3>
 
-<h1>Voight-Kampff: Cross-Genre AI-Generated Text Detection (PAN@CLEF 2026)</h1>
+<p align="center"><strong>PAN@CLEF 2026 Voight-Kampff AI-generated text detector: calibrated DeBERTa + LightGBM + SVM ensemble over 44 domain-portable features (0.891 ROC-AUC).</strong></p>
 
-<p><strong>PAN@CLEF 2026 Voight-Kampff AI-generated text detector: calibrated DeBERTa + LightGBM + SVM ensemble over 44 domain-portable features (0.891 ROC-AUC).</strong></p>
-
-<br clear="left">
-
-[![Best Practices Evidence](https://img.shields.io/badge/best%20practices-evidence%20reviewed-6a4c93?style=flat-square&labelColor=20232a)](.bestpractices.json) [![License](https://img.shields.io/github/license/dcondrey/voight-kampff-clef2026?style=flat-square&labelColor=20232a&color=007ec6&label=license)](https://github.com/dcondrey/voight-kampff-clef2026/blob/main/LICENSE) [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=flat-square&labelColor=20232a)](https://github.com/sponsors/dcondrey)
+<p align="center">
+  <a href=".bestpractices.json"><img src="https://img.shields.io/badge/best%20practices-evidence%20reviewed-6a4c93?style=flat-square&labelColor=20232a" alt="Best Practices Evidence"></a>
+  <a href="https://github.com/dcondrey/voight-kampff-clef2026/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dcondrey/voight-kampff-clef2026?style=flat-square&labelColor=20232a&color=007ec6&label=license" alt="License"></a>
+  <a href="https://github.com/sponsors/dcondrey"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=flat-square&labelColor=20232a" alt="GitHub Sponsors"></a>
+</p>
 <!-- repo-header:end -->
+
+---
 
 ## Official Result
 
